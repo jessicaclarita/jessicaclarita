@@ -1,6 +1,4 @@
-### Hi there 👋
-
-**jessicaclarita/jessicaclarita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 Welcome to my profile 😊
 
 👨‍💻 I'm a final year computing student who enjoys learning new languages, libraries, and frameworks.
 
