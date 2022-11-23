@@ -1,13 +1,8 @@
 ### Hi there 👋 Welcome to my profile 😊
 
-I'm a final year computing student who enjoys learning new languages, libraries, and frameworks.
-P.S. I’m currently working on my final year project.👨‍💻 
-
-<details>
-  <summary>
-    🌱 I’m currently learning:
-  </summary>
-  <br/>
+👨‍💻 I'm a final year computing student who enjoys learning new languages, libraries, and frameworks.
+🔭 P.S. I’m currently working on my final year project.
+🌱 I’m currently learning:
   <div>
     <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -25,4 +20,3 @@ P.S. I’m currently working on my final year project.👨‍💻
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> 
     <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
   </div>
-</details>
