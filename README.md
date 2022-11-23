@@ -1,11 +1,11 @@
 ### Hi there 👋 Welcome to my profile 😊
 
-👨‍💻 I'm a final year computing student who enjoys learning new languages, libraries, and frameworks.
+I'm a final year computing student who enjoys learning new languages, libraries, and frameworks.
+P.S. I’m currently working on my final year project.👨‍💻 
 
-- 🔭 I’m currently working on my final year project
 <details>
   <summary>
-    - 🌱 I’m currently learning
+    🌱 I’m currently learning:
   </summary>
   <br/>
   <div>
