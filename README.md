@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **jessicaclarita/jessicaclarita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 👨‍💻 I'm a final year computing student who enjoys learning new languages, libraries, and frameworks.
@@ -29,4 +28,3 @@
     <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
   </div>
 </details>
--->
