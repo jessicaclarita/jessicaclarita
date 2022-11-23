@@ -19,4 +19,5 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> 
     <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&amp;logo=GitHub&amp;logoColor=white"/>
   </div>
