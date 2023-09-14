@@ -1,8 +1,8 @@
 ### Hi there 👋 Welcome to my profile 😊
 
-👨‍💻 I'm a final year computing student who enjoys learning new languages, libraries, and frameworks. \
-🔭 P.S. I’m working on my final year project at the moment. \
-🌱 I’m currently learning:
+👨‍💻 I'm a computing fresh graduate who enjoys learning new languages, libraries, and frameworks. \
+🔭 P.S. I’m working on my portfolio at the moment. \
+🌱 I've learned about:
   <div>
     <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
