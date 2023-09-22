@@ -2,7 +2,7 @@
 
 👨‍💻 I'm a computing fresh graduate who enjoys learning new languages, libraries, and frameworks. \
 🔭 P.S. I’m working on my portfolio at the moment. \
-🌱 I've learned about:
+🌱 I have some experience in:
   <div>
     <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -21,3 +21,4 @@
     <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&amp;logo=GitHub&amp;logoColor=white"/>
   </div>
+
