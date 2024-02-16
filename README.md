@@ -1,7 +1,5 @@
 ### Hi there 👋 Welcome to my profile 😊
 
-👨‍💻 I'm a computing fresh graduate who enjoys learning new languages, libraries, and frameworks. \
-🔭 P.S. I’m working on my portfolio at the moment. \
 🌱 I have some experience in:
   <div>
     <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" />
