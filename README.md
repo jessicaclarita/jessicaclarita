@@ -1,5 +1,6 @@
 ### Hi there 👋 Welcome to my profile 😊
-
+👩‍💻 My GitHub Statistics:
+<img src="https://github-readme-stats.vercel.app/api?username=jessicaclarita&count_private=true&show_icons=true&include_all_commits=true&theme=dark" alt="Jessica's Github Stats" /> \
 🌱 I have some experience in:
   <div>
     <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" />
