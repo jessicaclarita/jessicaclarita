@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my profile 😊
 👩‍💻 My GitHub Statistics:
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=jessica-clarita&count_private=true&show_icons=true&include_all_commits=true&theme=dark" alt="Jessica's Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=jessicaclarita&count_private=true&show_icons=true&include_all_commits=true&theme=dark" alt="Jessica's Github Stats" />
 </div>
 <br/>
 
