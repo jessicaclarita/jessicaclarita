@@ -6,8 +6,8 @@
 <div align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=jessicaclarita&theme=dracula" alt="GitHub Streak" />
   <br/><br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=jessicaclarita&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&theme=dracula" alt="Jessica's GitHub Stats" />
-  <br/><br/>
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=jessicaclarita&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&theme=dracula" alt="Jessica's GitHub Stats" />
+  <br/><br/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaclarita&layout=donut&theme=dracula" alt="Top Languages" />
 </div>
 
