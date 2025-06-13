@@ -33,6 +33,6 @@
   <img src="https://img.shields.io/badge/MySQL-0d47a1?style=for-the-badge&logo=mysql&logoColor=2196f3" />
   <img src="https://img.shields.io/badge/Git-b71c1c?style=for-the-badge&logo=git&logoColor=d32f2f" />
   <img src="https://img.shields.io/badge/Postman-bf360c?style=for-the-badge&logo=postman&logoColor=ff7043" />
-  <img src="https://img.shields.io/badge/VS Code-1a237e?style=for-the-badge&logo=vscode&logoColor=3f51b5" />
+  <img src="https://img.shields.io/badge/VS%20Code-1a237e?style=for-the-badge&logo=visualstudiocode&logoColor=3f51b5" />
   <img src="https://img.shields.io/badge/GitHub-212121?style=for-the-badge&logo=github&logoColor=eeeeee" />
 </div>
