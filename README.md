@@ -5,10 +5,10 @@
 #### 👩‍💻 My GitHub Stats
 <div align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=jessicaclarita&theme=dracula" alt="GitHub Streak" />
-  <br/><br/>
+<!--   <br/><br/> -->
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=jessicaclarita&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&theme=dracula" alt="Jessica's GitHub Stats" />
   <br/><br/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaclarita&layout=donut&theme=dracula" alt="Top Languages" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaclarita&layout=donut&theme=dracula" alt="Top Languages" /> -->
 </div>
 
 ---
@@ -33,6 +33,6 @@
   <img src="https://img.shields.io/badge/MySQL-0d47a1?style=for-the-badge&logo=mysql&logoColor=2196f3" />
   <img src="https://img.shields.io/badge/Git-b71c1c?style=for-the-badge&logo=git&logoColor=d32f2f" />
   <img src="https://img.shields.io/badge/Postman-bf360c?style=for-the-badge&logo=postman&logoColor=ff7043" />
-  <img src="https://img.shields.io/badge/VS Code-1a237e?style=for-the-badge&logo=visualstudiocode&logoColor=3f51b5" />
+  <img src="https://img.shields.io/badge/VS Code-1a237e?style=for-the-badge&logo=vscode&logoColor=3f51b5" />
   <img src="https://img.shields.io/badge/GitHub-212121?style=for-the-badge&logo=github&logoColor=eeeeee" />
 </div>
