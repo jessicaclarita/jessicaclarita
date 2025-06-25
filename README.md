@@ -10,9 +10,9 @@
   <img src="https://img.shields.io/badge/JavaScript-607d8b?style=for-the-badge&logo=javascript&logoColor=ffeb3b" />
   <img src="https://img.shields.io/badge/TypeScript-37474f?style=for-the-badge&logo=typescript&logoColor=03a9f4" />
   <img src="https://img.shields.io/badge/React-263238?style=for-the-badge&logo=react&logoColor=00bcd4" />
-  <img src="https://img.shields.io/badge/Next.js-3e2723?style=for-the-badge&logo=next.js&logoColor=8bc34a" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/TailwindCSS-424242?style=for-the-badge&logo=tailwindcss&logoColor=00acc1" />
-  <img src="https://img.shields.io/badge/Material UI-4a148c?style=for-the-badge&logo=mui&logoColor=ab47bc" />
+  <img src="https://img.shields.io/badge/Material UI-0d47a1?style=for-the-badge&logo=mui&logoColor=2196f3" />
   <img src="https://img.shields.io/badge/Bootstrap-6a1b9a?style=for-the-badge&logo=bootstrap&logoColor=ec407a" />
   <img src="https://img.shields.io/badge/Python-283593?style=for-the-badge&logo=python&logoColor=3f51b5" />
   <img src="https://img.shields.io/badge/Node.js-004d40?style=for-the-badge&logo=node.js&logoColor=4caf50" />
